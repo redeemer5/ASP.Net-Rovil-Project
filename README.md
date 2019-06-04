@@ -8,4 +8,7 @@
   <li> After that locate the .sln file and click to run the application. </li>
 </ul>
 
+# Tip
+<p> To use the system to your liking then you will have to create your own database that will connect with the application </p> 
+
 
