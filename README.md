@@ -1,6 +1,6 @@
 # ASP.Net-Rovil-Project
 <p> A web application where users can get to see what the business is selling and then contact the business. </p>
-<p> The system has an admin side where they can log-in and then upload the items that the business is selling for the client to view. </p>
+<p> The system has an admin side where system-admins can log-in and then upload/delete/update the items that the business is selling for the client to view. </p>
 
 # How to run the application ?
 <ul>
