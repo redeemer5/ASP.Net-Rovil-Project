@@ -16,5 +16,6 @@
 
 # Tip
 <p> To use the system to your liking then you will have to create your own database that will connect with the application </p> 
+<p> Also make sure that you have visual studio 2017 or older to run the application </p>
 
 
