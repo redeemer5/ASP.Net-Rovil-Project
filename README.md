@@ -2,6 +2,12 @@
 <p> A web application where users can get to see what the business is selling and then contact the business. </p>
 <p> The system has an admin side where system-admins can log-in and then upload/delete/update the items that the business is selling for the clients to view. </p>
 
+#Technologies
+<ul>
+  <li>asp .net</li>
+  <li>sql database</li>
+</ul>
+
 # How to run the application ?
 <ul>
   <li> Its easy, make sure that you have visual studio installed on your machine then just clone or download the project. </li>
